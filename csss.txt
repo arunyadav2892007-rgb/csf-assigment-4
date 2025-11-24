@@ -1,5 +1,0 @@
-in line most priority
-
-
-
-id have priotity then class last class 
